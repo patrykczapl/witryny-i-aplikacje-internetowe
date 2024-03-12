@@ -1,0 +1,46 @@
+body {
+	text-align: center;
+}
+
+h2 {
+	color: blue;
+}
+
+p {
+	color: green;
+}
+
+#jeden {
+	font-family: Arial;
+	font-size: 1.2em;
+	color: black;
+	background-color: lightyellow;
+	border: 1px solid black;
+	margin: 10px;
+	padding: 20px;
+}
+
+#dwa {
+	font-family: Tahoma;
+	font-size: 1.3em;
+	color: green;
+	background-color: lightblue;
+	border: 2px grey solid;
+	margin: 15px;
+	padding: 20px;
+}
+
+#trzy {
+	font-family: Georgia;
+	font-size: 1.5em;
+	color: red;
+	background-color: lightgrey;
+	border: 2px dashed black;
+	margin: 20px;
+	padding: 30px;
+}
+
+div.content {
+	width: 70%;
+	margin: auto;
+}
